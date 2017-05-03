@@ -16,8 +16,7 @@ source:
 
 build:
   number: 0
-  # r-modelr is not available under windows
-  skip: true  # [win]
+  skip: true  # [win32]
   rpaths:
     - lib/R/lib/
     - lib/
