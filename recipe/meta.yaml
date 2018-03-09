@@ -1,4 +1,4 @@
-{% set version = '1.1.1' %}
+{% set version = "1.2.1" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/tidyverse_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/tidyverse/tidyverse_{{ version }}.tar.gz
-  sha256: 1d6b3f2e62257692206ca30be43ab2f9db59f0cc8c05f657eb47ccf8fbd11daa
+  sha256: ad67a27bb4e89417a15338fe1a40251a7b5dedba60e9b72637963d3de574c37b
 
 build:
   number: 0
