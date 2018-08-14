@@ -43,6 +43,9 @@ requirements:
     - r-tibble
     - r-tidyr
     - r-xml2
+    - r-dbplyr
+    - r-reprex
+    - r-rstudioapi
   run:
     - r-base
     - r-broom
@@ -64,6 +67,9 @@ requirements:
     - r-tibble
     - r-tidyr
     - r-xml2
+    - r-dbplyr
+    - r-reprex
+    - r-rstudioapi
 
 test:
   commands:
