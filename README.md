@@ -1,13 +1,13 @@
 About r-tidyverse
 =================
 
-Home: http://tidyverse.org, https://github.com/tidyverse/tidyverse
+Home: http://tidyverse.tidyverse.org, https://github.com/tidyverse/tidyverse
 
 Package license: GPL-3
 
 Feedstock license: BSD 3-Clause
 
-Summary: The 'tidyverse' is a set of packages that work in harmony because they share common data representations and 'API' design. This package is designed to make it easy to install and load multiple 'tidyverse' packages in a single step. Learn more about the 'tidyverse' at <https://github.com/hadley/tidyverse>.
+Summary: The 'tidyverse' is a set of packages that work in harmony because they share common data representations and 'API' design. This package is designed to make it easy to install and load multiple 'tidyverse' packages in a single step. Learn more about the 'tidyverse' at <https://tidyverse.org>.
 
 
 
