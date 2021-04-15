@@ -3,7 +3,7 @@ About r-tidyverse
 
 Home: http://tidyverse.tidyverse.org, https://github.com/tidyverse/tidyverse
 
-Package license: GPL-3
+Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tidyverse-feedstock/blob/master/LICENSE.txt)
 
