@@ -1,11 +1,11 @@
-About r-tidyverse
-=================
+About r-tidyverse-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tidyverse-feedstock/blob/main/LICENSE.txt)
 
 Home: https://tidyverse.tidyverse.org
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tidyverse-feedstock/blob/main/LICENSE.txt)
 
 Summary: The 'tidyverse' is a set of packages that work in harmony because they share common data representations and 'API' design. This package is designed to make it easy to install and load multiple 'tidyverse' packages in a single step. Learn more about the 'tidyverse' at <https://tidyverse.org>.
 
